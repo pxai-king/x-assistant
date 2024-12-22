@@ -1,0 +1,25 @@
+{
+  "short_name": "X助手",
+  "name": "X助手",
+  "icons": [
+    {
+      "src": "assistant.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "assistant.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "assistant.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#000000"
+}
